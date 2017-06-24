@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EVG Parauapebas",
-    "currentPage": "inicio",
+    "currentPage": "hospital",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 74,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/igreja-umiversal-logo-simbolo-1.gif",
     "noImageResize": ""
@@ -989,6 +989,41 @@
           "text": "<p>Há quase 4 décadas, a Universal expressa a sua fé e crença no Deus vivo. Com base na Bíblia, ela revela o poder que o Pai, o Filho e o Espírito Santo têm em transformar e salvar vidas.</p><p><br></p><p>Após a criação dos seres humanos, Deus-Pai foi o Primeiro a se manifestar ao homem, ensinando-lhe como seguir e obedecer às Suas doutrinas. Esses ensinamentos foram seguidos por Abraão, Isaque, Jacó e tantos outros heróis da fé.</p><p><br></p><p>Infelizmente, o homem deixou que o pecado corrompesse suas atitudes. Assim, muitos se desviaram do caminho certo e passaram a seguir as trilhas do seu próprio coração. Mas Deus, na Sua infinita graça e manifestação de amor à humanidade, enviou Seu Único Filho para trazer a Lei e cumprir os Mandamentos Divinos.</p><p><br></p><p>O Senhor Jesus Cristo, o Deus-Filho, foi o Segundo a Se manifestar ao homem. Quando veio ao mundo, Ele sofreu, foi crucificado, morto e sepultado, mas ao terceiro dia ressuscitou. Desta feita, garantiu a Salvação ao homem e a libertação deste de todos os sofrimentos.&nbsp;</p><p><br></p><p>O Deus-Espírito Santo foi o Terceiro a se manifestar para a humanidade. Sua revelação é feita no coração. Assim, pode convencer o homem de seus pecados, mostrando, por meio da consciência, que uma pessoa pode errar, mas se houver um sincero arrependimento, Deus a perdoará.&nbsp;</p><p><br></p><p>Desde o início, a Santíssima Trindade age com poder e sabedoria, e até os dias atuais revela a Sua vontade por intermédio da Bíblia, que foi escrita por homens divinamente inspirados, como mostra 2 Timóteo 3.16-17: \"Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça, a fim de que o homem de Deus seja perfeito e perfeitamente habilitado para toda boa obra.\"</p><p><br></p><p>Mas o homem ou a mulher que tem a sua vida nas mãos de Deus só pode realizar a boa Obra quando se arrepende de seus pecados. E isso se dá por meio do batismo nas águas, realizado por imersão. Ali é sepultada a natureza humana, isto é, o pecado, e nasce uma nova pessoa, disposta a realizar a vontade de Deus na Terra.</p><p><br></p><p>Batismo com o Espírito Santo</p><p><br></p><p>O batismo com o Espírito de Deus é um ato de graça e é realizado pelo próprio Senhor Jesus em todos aqueles que desejam ser purificados e também andar em santidade. Por isso, a Universal fundamenta a sua fé e crença exclusivamente na Palavra de Deus, na Bíblia Sagrada.&nbsp;</p><p><br></p><p>Santa Ceia</p><p><br></p><p>Entre os eventos, a Santa Ceia é a cerimônia mais importante. Ela não representa apenas um símbolo da participação do corpo e do sangue do Senhor, e sim o fortalecimento da Igreja física e espiritual. Além disso, serve para uma renovação dos votos de aliança com Deus.</p><p><br></p><p>Dízimos e ofertas</p><p><br></p><p>A Universal também crê que os dízimos e as ofertas são tão sagrados quanto a Palavra de Deus. Os dízimos significam fidelidade, e as ofertas, o amor do servo para com o seu Senhor. Todos os que servem a Deus têm o direito a uma vida abundante. É o que o Senhor Jesus afirma no livro de João 10.10: “... Eu vim para que tenham vida e a tenham em abundância.”&nbsp;</p><p><br></p><p>Enfim, a crença é que todos devem ter um relacionamento permanente com o Senhor Jesus pela fé e assim conquistar a vida eterna, a qual Ele prometeu a todos os que perseverarem até o fim. \"Ao vencedor, dar-lhe-ei sentar-se Comigo no Meu trono, assim como também Eu venci e Me sentei com Meu Pai no Seu trono.” Apocalipse 3.21</p>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-20",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "CONHEÇA",
+          "text": "<p>A Igreja Universal em Parauapebas</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"igreja-parauapebas\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1135,6 +1170,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1159,7 +1197,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -1373,31 +1411,38 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>"
         },
         {
-          "_inherit": "social-buttons2",
+          "_inherit": "social-buttons1",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1g",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-21",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -1615,6 +1660,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1639,7 +1687,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -1854,6 +1902,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1878,7 +1929,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -2093,6 +2144,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -2117,7 +2171,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -2332,6 +2386,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -2356,7 +2413,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -2807,6 +2864,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -2831,7 +2891,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "COMPARTILHE"
         }
       ]
     },
@@ -2935,7 +2995,7 @@
               "color": "#fff"
             },
             "H3": {
-              "font-size": "46px"
+              "font-size": "36px"
             },
             "P": {
               "font-size": "20px"
@@ -3339,6 +3399,40 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "COMPARTILHE"
         }
       ]
     },

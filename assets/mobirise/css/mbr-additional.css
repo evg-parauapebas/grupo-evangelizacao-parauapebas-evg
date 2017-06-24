@@ -511,6 +511,10 @@ h6,
 #header3-g SMALL {
   text-align: right;
 }
+#msg-box3-20 .mbr-section-title,
+#msg-box3-20 p {
+  color: #000;
+}
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -578,6 +582,9 @@ h6,
 #social-buttons3-1f .mbr-section-title,
 #social-buttons3-1f .btn-social {
   color: #fff;
+}
+#social-buttons3-1f .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -653,9 +660,12 @@ h6,
 #contacts4-1a UL {
   color: #ffffff;
 }
-#social-buttons4-1g .mbr-section-title,
-#social-buttons4-1g .btn-social {
+#social-buttons3-21 .mbr-section-title,
+#social-buttons3-21 .btn-social {
   color: #fff;
+}
+#social-buttons3-21 .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -735,6 +745,9 @@ h6,
 #social-buttons3-1h .btn-social {
   color: #fff;
 }
+#social-buttons3-1h .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -809,6 +822,9 @@ h6,
 #social-buttons3-1i .mbr-section-title,
 #social-buttons3-1i .btn-social {
   color: #fff;
+}
+#social-buttons3-1i .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-t .hide-buttons .nav-btn {
   display: none !important;
@@ -885,6 +901,9 @@ h6,
 #social-buttons3-1j .btn-social {
   color: #fff;
 }
+#social-buttons3-1j .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -959,6 +978,9 @@ h6,
 #social-buttons3-1k .mbr-section-title,
 #social-buttons3-1k .btn-social {
   color: #fff;
+}
+#social-buttons3-1k .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;
@@ -1107,6 +1129,9 @@ h6,
 #social-buttons3-1n .btn-social {
   color: #fff;
 }
+#social-buttons3-1n .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1173,7 +1198,7 @@ h6,
   color: #fff;
 }
 #msg-box7-1p H3 {
-  font-size: 46px;
+  font-size: 36px;
 }
 #msg-box7-1p P {
   font-size: 20px;
@@ -1195,6 +1220,13 @@ h6,
 }
 #contacts4-1a UL {
   color: #ffffff;
+}
+#social-buttons3-1z .mbr-section-title,
+#social-buttons3-1z .btn-social {
+  color: #fff;
+}
+#social-buttons3-1z .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-1u .hide-buttons .nav-btn {
   display: none !important;

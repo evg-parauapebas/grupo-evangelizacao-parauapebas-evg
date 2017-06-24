@@ -1,2 +1,2 @@
 # grupo-evangelizacao-parauapebas-evg
-Evangelização
+Evangelização Parauapebas - PA

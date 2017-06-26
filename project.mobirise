@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EVG Parauapebas",
-    "currentPage": "hospital",
+    "currentPage": "inicio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVG PARAUAPEBAS - INÍCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O QUE FAZEMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"agente-da-comunidade\" target=\"_blank\">AGENTE DA COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anjos-da-madrugada\" target=\"_blank\">ANJOS DA MADRUGADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"consolador\" aria-expanded=\"false\" target=\"_blank\">CONSOLADOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"evg-digital\" target=\"_blank\">EVG DIGITAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hospital\" target=\"_blank\">HOSPITAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nucleo-no-lar\" target=\"_blank\">NÚCLEO NO LAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRESÍDIO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resgate\" target=\"_blank\">RESGATE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#map2-7\">COMO CHEGAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.universal.org/pastoronline/\" target=\"_blank\">PASTOR ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"quem-somos\">QUEM SOMOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"igreja-parauapebas\">IGREJA PARAUAPEBAS</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">O QUE FAZEMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"agente-da-comunidade\" target=\"_blank\">AGENTE DA COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anjos-da-madrugada\" target=\"_blank\">ANJOS DA MADRUGADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"consolador\" aria-expanded=\"false\" target=\"_blank\">CONSOLADOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"evg-digital\" target=\"_blank\">EVG DIGITAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hospital\" target=\"_blank\">HOSPITAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nucleo-no-lar\" target=\"_blank\">NÚCLEO NO LAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resgate\" target=\"_blank\">RESGATE</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#map2-7\">COMO CHEGAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.universal.org/pastoronline/\" target=\"_blank\">PASTOR ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"quem-somos\">QUEM SOMOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"igreja-parauapebas\">IGREJA PARAUAPEBAS</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -524,6 +524,11 @@
             "Theme"
           ],
           "_name": "video2",
+          "_styles": {
+            "DIV": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "video2-1d",
           "_params": {
             "paddingTop": 4,
@@ -544,12 +549,7 @@
               "loop": false
             }
           },
-          "text": "Evangelização Universal trabalha incessantemente em todos os locais.",
-          "_styles": {
-            "DIV": {
-              "font-size": "22px"
-            }
-          }
+          "text": "Evangelização Universal trabalha incessantemente em todos os locais."
         },
         {
           "_tags": [
@@ -805,6 +805,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box4-1y",
           "_params": {
             "imageSize": "57",
@@ -851,18 +856,18 @@
           },
           "title": "UNIVERSAL PARAUAPEBAS",
           "text": "Saiba mais sobre a Igreja Universal Parauapebas bem como as Reuniões realizadas durante a semana, veja também fotos, vídeos e muito mais...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"igreja-parauapebas\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAIBA MAIS</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"igreja-parauapebas\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAIBA MAIS</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts4-18",
           "_params": {
             "paddingTop": 3,
@@ -906,12 +911,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "_styles": {
-            "UL": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -3108,6 +3108,12 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#e25041",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "features3-1r",
           "_params": {
             "paddingTop": 2,
@@ -3214,19 +3220,19 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "color": "#e25041",
-              "font-size": "16px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#e25041",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "features3-1t",
           "_params": {
             "paddingTop": 2,
@@ -3337,13 +3343,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "color": "#e25041",
-              "font-size": "16px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
